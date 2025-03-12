@@ -11,7 +11,7 @@ from config import *
 
 
 name ="""
- BY CODEFLIX BOTS
+ BY WEOO_ANIMES
 """
 
 
