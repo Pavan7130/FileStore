@@ -71,7 +71,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)</b>
+</b>⋗  ᴛᴇʟᴇɢʀᴀᴍ - <b>[Weoo_Animes](https://t.me/codeflix_bots)</b>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -122,11 +122,11 @@ python3 bot.py
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴄᴏᴅᴇғʟɪx ʙᴏᴛs](https://t.me/codeflix_bots)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/codeflix_bots) </b>
-- <b>[ʏᴀᴛᴏ](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
-- <b>[ʀᴏʜɪᴛ](https://github.com/rohit3607)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/FILE_SHARINGBOTS/17) </b>
+- <b>[Weoo_Animes](https://t.me/weoo_animes)  ➻  [ᴜᴘᴅᴀᴛᴇs](https://t.me/weoo_anime) </b>
+- <b>[Weox](https://github.com/sewxiy)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/cosmic_freak) </b>
+- <b>[Hunter](https://github.com/rohit3607)  ➻  [Everything](https://t.me/FILE_SHARINGBOTS/17) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/codeflix-bots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/weoo_Animes) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 ## 📌  𝑵𝒐𝒕𝒆
 
